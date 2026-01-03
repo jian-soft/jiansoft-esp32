@@ -1,0 +1,36 @@
+/*
+ * SPDX-FileCopyrightText: Jiansoft
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/**
+ * @file template.h
+ * @brief Brief description of this module
+ * @author Jiansoft
+ * @date 2025-11-19
+ */
+
+#ifndef TEMPLATE_H
+#define TEMPLATE_H
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+/* Includes ------------------------------------------------------------------*/
+#include <stdint.h>
+
+/* Exported constants --------------------------------------------------------*/
+
+/* Exported types ------------------------------------------------------------*/
+
+/* Exported macros -----------------------------------------------------------*/
+
+/* Exported functions --------------------------------------------------------*/
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif /* TEMPLATE_H */
