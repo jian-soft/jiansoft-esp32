@@ -3,6 +3,9 @@
  * @brief Brief description of the implementation
  * @author Henry Zhang
  * @date 2025-11-19
+ * @version 1.0
+ * @note created on 2025-11-19
+ * @note last modified on 2025-11-19
  */
 
 /*---------------------------------------------------------------------------*
